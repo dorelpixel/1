@@ -1,0 +1,6 @@
+print("Dog years converter to human years")
+dog_years < 0:
+ print("Impossible")
+else:
+  human_years=int(dog_years*7)
+  print(human_years)
